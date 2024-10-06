@@ -69,3 +69,6 @@
 </div>
 
 ###
+
+## 🦖 Holopin Badges
+[![An image of @divjotsingh24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divjotsingh24)](https://holopin.io/@divjotsingh24)
